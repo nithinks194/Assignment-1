@@ -14,8 +14,8 @@ Data Exploration
  
 - Using a COUNTIF() Function
  
-- Using a LEFT Function
+- Using a LEFT() Function
   
-- Using a RIGHT Function
+- Using a RIGHT() Function
   
-- Using a MID Function
+- Using a MID() Function
